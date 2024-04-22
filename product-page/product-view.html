@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Store | Product</title>
+    <link rel="icon" href="../imgs/logo.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="../index-page/style.css">
+    <link rel="stylesheet" href="product.css">
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <a href="../index-page/index.html">
+              <div class="header-logo">
+                <i class="fa-solid fa-store"></i>
+                <h2>store.</h2>
+              </div>
+            </a>
+    
+            <div class="header-utilities">
+              <div class="header-cart">
+                <a href="../cart-page/cart.html"><i class="fa-solid fa-cart-shopping"></i></a>
+                <div id="cart-count"></div>
+              </div>
+            </div>
+        </header>
+    </div>
+
+    <hr>
+
+    <div class="wrapper">
+      <div class="breadcrumbs">
+          <h3>Home</h3>
+          <h4>></h4>
+          <h3>Electronic</h3>
+          <h4>></h4>
+          <h3 id="breadcrumbs-model-selected">G502 X Lightspeed Wireless Gaming</h3>
+      </div>
+
+      <section class="product-view">
+        <div class="product-view-img">
+          <img src="" alt="image of product-view">
+        </div>
+        <div class="product-view-description">
+          <h1 id="name"></h1>
+          <h2 id="brand"></h2>
+          <h1 id="price"></h1>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit ab saepe libero qui deleniti officia! Commodi delectus iste, a dolores distinctio ipsam officia consequatur nihil, quae itaque cumque earum facilis.</p>
+          <button id="buy-now">Buy Now</button>
+        </div>
+      </section>
+
+      <section class="back">
+        <a href="../index-page/index.html" class="go-back-btn"><i class="fa-solid fa-arrow-left"></i></a>
+      </section>
+    </div>
+    
+    <script src="product.js"></script>
+</body>
+</html>

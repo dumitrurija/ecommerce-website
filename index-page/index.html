@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Store | Catalog</title>
+    <link rel="icon" href="../imgs/logo.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <a href="../index-page/index.html">
+                <div class="header-logo">
+                  <i class="fa-solid fa-store"></i>
+                  <h2>store.</h2>
+                </div>
+            </a>
+    
+            <div class="header-search">
+                <input type="text" placeholder="Search for a product..." id="search-product">
+                <button><i class="fa-solid fa-magnifying-glass"></i></button>
+            </div>
+    
+            <div class="header-utilities">
+                <div class="header-cart">
+                    <a href="../cart-page/cart.html"><i class="fa-solid fa-cart-shopping"></i></a>
+                    <div id="cart-count"></div>
+                </div>
+            </div>
+        </header>
+    </div>
+
+    <hr>
+
+    <div class="wrapper">
+        <main>
+            <div class="breadcrumbs">
+                <h3>Home</h3>
+                <h4>></h4>
+                <h3>Electronic</h3>
+                <h4>></h4>
+                <h3>Gaming Gear</h3>
+            </div>
+    
+            <div class="showing-product">
+                <div>
+                    <h2>Showing product for "Gaming Gear"</h2>
+                    <p></p>
+                </div>
+    
+                <div>
+                    <label for="">Sort By:</label>
+                    <select name="" id="sort-products-order">
+                        <option value="">Relevant order</option>
+                        <option value="ascending">Ascending Order</option>
+                        <option value="descending">Descending Order</option>
+                    </select>                    
+                </div>
+            </div>
+
+            <section class="catalog">
+                <div class="catalog-filter">
+                    <h3>Filter Options</h3>
+
+                    <hr>
+
+                    <div>
+                        <div class="filter-title">
+                            <h4>Brand Name</h4>
+                            <i class="fa-solid fa-chevron-up"></i>
+                        </div>
+
+                        <div id="filter-by-brand" class="filter-toggle">
+                            <input type="checkbox" id="neocomputer">
+                            <label for="neocomputer">Neocomputer</label> <br>
+                            <input type="checkbox" id="technobyte">
+                            <label for="technobyte">TechnoByte</label> <br>
+                            <input type="checkbox" id="cybernova">
+                            <label for="cybernova">CyberNova</label>
+                        </div>
+                    </div>
+
+                    <hr>
+
+                    <div>
+                        <div class="filter-title">
+                            <h4>Price Range</h4>
+                            <i class="fa-solid fa-chevron-up"></i>
+                        </div>
+
+                        <div class="filter-price filter-toggle">
+                            <input type="number" placeholder="Minimum price" name="" id="min-price">
+                            <input type="number" placeholder="Maximum price" name="" id="max-price">
+                            <button>Check</button>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="catalog-products">
+                </div>
+            </section>
+            <div class="pagination"></div>
+        </main>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

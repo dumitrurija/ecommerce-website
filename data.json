@@ -1,0 +1,434 @@
+[
+  {
+    "img": "../imgs/logitech-g920.webp",
+    "name": "G502 X Lightspeed Wireless Gaming",
+    "brand": "Neocomputer",
+    "price": 139
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "Logitech Refurbished G920",
+    "brand": "TechnoByte",
+    "price": 128
+  },
+  {
+    "img": "../imgs/logitech-g713.webp",
+    "name": "G502 X Plus Gaming Mouse",
+    "brand": "CyberNova",
+    "price": 93
+  },
+  {
+    "img": "../imgs/logitech-g622.jpg",
+    "name": "Logitech G713 Gaming Keyboard",
+    "brand": "Neocomputer",
+    "price": 89
+  },
+  {
+    "img": "../imgs/logitech-g502.jpg",
+    "name": "Logitech G735 Gaming Headset",
+    "brand": "TechnoByte",
+    "price": 69
+  },
+  {
+    "img": "../imgs/logitech-g735.webp",
+    "name": "Logitech G705 Gaming Mouse",
+    "brand": "CyberNova",
+    "price": 56
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "RetroGamer G502 Classic Mouse",
+    "brand": "RetroTech",
+    "price": 99
+  },
+  {
+    "img": "../imgs/logitech-g622.jpg",
+    "name": "G920 Prodigy Racing Wheel",
+    "brand": "VeloDrive",
+    "price": 149
+  },
+  {
+    "img": "../imgs/logitech-g920.webp",
+    "name": "TurboSpeed G622 Pro Mouse",
+    "brand": "SpeedTech",
+    "price": 79
+  },
+  {
+    "img": "../imgs/logitech-g502.jpg",
+    "name": "G713 Elite Gaming Keyboard",
+    "brand": "EliteGear",
+    "price": 109
+  },
+  {
+    "img": "../imgs/logitech-g713.webp",
+    "name": "SoundMaster G735 Gaming Headset",
+    "brand": "AudioHaven",
+    "price": 89
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "HyperDrive G705 Gaming Mouse",
+    "brand": "MegaGamer",
+    "price": 69
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "UltimateGrip G502 Gaming Mouse",
+    "brand": "TechMaster",
+    "price": 119
+  },
+  {
+    "img": "../imgs/logitech-g622.jpg",
+    "name": "G920 SuperSpeed Racing Wheel",
+    "brand": "RaceTech",
+    "price": 159
+  },
+  {
+    "img": "../imgs/logitech-g920.webp",
+    "name": "SwiftShot G622 Pro Mouse",
+    "brand": "SwiftGear",
+    "price": 89
+  },
+  {
+    "img": "../imgs/logitech-g735.webp",
+    "name": "ProElite G713 Gaming Keyboard",
+    "brand": "ProTech",
+    "price": 99
+  },
+  {
+    "img": "../imgs/logitech-g502.jpg",
+    "name": "SoundBlaster G735 Gaming Headset",
+    "brand": "AudioTech",
+    "price": 79
+  },
+  {
+    "img": "../imgs/logitech-g713.webp",
+    "name": "SpeedBlaze G705 Gaming Mouse",
+    "brand": "BlazeTech",
+    "price": 49
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "G502 Titan Gaming Mouse",
+    "brand": "TitanTech",
+    "price": 129
+  },
+  {
+    "img": "../imgs/logitech-g622.jpg",
+    "name": "G920 Turbo Racing Wheel",
+    "brand": "TurboDrive",
+    "price": 169
+  },
+  {
+    "img": "../imgs/logitech-g920.webp",
+    "name": "Vortex G622 Pro Mouse",
+    "brand": "VortexTech",
+    "price": 99
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "ProGamer G713 Gaming Keyboard",
+    "brand": "GamerTech",
+    "price": 109
+  },
+  {
+    "img": "../imgs/logitech-g622.jpg",
+    "name": "UltraSound G735 Gaming Headset",
+    "brand": "SoundTech",
+    "price": 89
+  },
+  {
+    "img": "../imgs/logitech-g735.webp",
+    "name": "SwiftGrip G705 Gaming Mouse",
+    "brand": "SwiftTech",
+    "price": 59
+  },
+  {
+    "img": "../imgs/logitech-g502.jpg",
+    "name": "StealthGrip G502 Gaming Mouse",
+    "brand": "StealthGear",
+    "price": 119
+  },
+  {
+    "img": "../imgs/logitech-g920.webp",
+    "name": "G920 Velocity Racing Wheel",
+    "brand": "VelocityDrive",
+    "price": 159
+  },
+  {
+    "img": "../imgs/logitech-g622.jpg",
+    "name": "ThunderStrike G622 Pro Mouse",
+    "brand": "ThunderTech",
+    "price": 79
+  },
+  {
+    "img": "../imgs/logitech-g713.webp",
+    "name": "G713 Prodigy Gaming Keyboard",
+    "brand": "ProdigyTech",
+    "price": 99
+  },
+  {
+    "img": "../imgs/logitech-g735.webp",
+    "name": "MaxSound G735 Gaming Headset",
+    "brand": "MaxTech",
+    "price": 69
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "TurboGrip G705 Gaming Mouse",
+    "brand": "TurboTech",
+    "price": 49
+  },
+  {
+    "img": "../imgs/logitech-g502.jpg",
+    "name": "G502 Stealth Gaming Mouse",
+    "brand": "StealthGear",
+    "price": 129
+  },
+  {
+    "img": "../imgs/logitech-g920.webp",
+    "name": "G920 Thunder Racing Wheel",
+    "brand": "ThunderDrive",
+    "price": 169
+  },
+  {
+    "img": "../imgs/logitech-g622.jpg",
+    "name": "StormGrip G622 Pro Mouse",
+    "brand": "StormTech",
+    "price": 89
+  },
+  {
+    "img": "../imgs/logitech-g713.webp",
+    "name": "G713 RapidFire Gaming Keyboard",
+    "brand": "RapidTech",
+    "price": 109
+  },
+  {
+    "img": "../imgs/logitech-g735.webp",
+    "name": "UltraSound Pro G735 Gaming Headset",
+    "brand": "UltraTech",
+    "price": 79
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "BlitzGrip G705 Gaming Mouse",
+    "brand": "BlitzTech",
+    "price": 59
+  },
+  {
+    "img": "../imgs/logitech-g920.webp",
+    "name": "G502 X Lightspeed Wireless Gaming",
+    "brand": "Neocomputer",
+    "price": 139
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "Logitech Refurbished G920",
+    "brand": "TechnoByte",
+    "price": 128
+  },
+  {
+    "img": "../imgs/logitech-g713.webp",
+    "name": "G502 X Plus Gaming Mouse",
+    "brand": "CyberNova",
+    "price": 93
+  },
+  {
+    "img": "../imgs/logitech-g622.jpg",
+    "name": "Logitech G713 Gaming Keyboard",
+    "brand": "Neocomputer",
+    "price": 89
+  },
+  {
+    "img": "../imgs/logitech-g502.jpg",
+    "name": "Logitech G735 Gaming Headset",
+    "brand": "TechnoByte",
+    "price": 69
+  },
+  {
+    "img": "../imgs/logitech-g735.webp",
+    "name": "Logitech G705 Gaming Mouse",
+    "brand": "CyberNova",
+    "price": 56
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "RetroGamer G502 Classic Mouse",
+    "brand": "RetroTech",
+    "price": 99
+  },
+  {
+    "img": "../imgs/logitech-g622.jpg",
+    "name": "G920 Prodigy Racing Wheel",
+    "brand": "VeloDrive",
+    "price": 149
+  },
+  {
+    "img": "../imgs/logitech-g920.webp",
+    "name": "TurboSpeed G622 Pro Mouse",
+    "brand": "SpeedTech",
+    "price": 79
+  },
+  {
+    "img": "../imgs/logitech-g502.jpg",
+    "name": "G713 Elite Gaming Keyboard",
+    "brand": "EliteGear",
+    "price": 109
+  },
+  {
+    "img": "../imgs/logitech-g713.webp",
+    "name": "SoundMaster G735 Gaming Headset",
+    "brand": "AudioHaven",
+    "price": 89
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "HyperDrive G705 Gaming Mouse",
+    "brand": "MegaGamer",
+    "price": 69
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "UltimateGrip G502 Gaming Mouse",
+    "brand": "TechMaster",
+    "price": 119
+  },
+  {
+    "img": "../imgs/logitech-g622.jpg",
+    "name": "G920 SuperSpeed Racing Wheel",
+    "brand": "RaceTech",
+    "price": 159
+  },
+  {
+    "img": "../imgs/logitech-g920.webp",
+    "name": "SwiftShot G622 Pro Mouse",
+    "brand": "SwiftGear",
+    "price": 89
+  },
+  {
+    "img": "../imgs/logitech-g735.webp",
+    "name": "ProElite G713 Gaming Keyboard",
+    "brand": "ProTech",
+    "price": 99
+  },
+  {
+    "img": "../imgs/logitech-g502.jpg",
+    "name": "SoundBlaster G735 Gaming Headset",
+    "brand": "AudioTech",
+    "price": 79
+  },
+  {
+    "img": "../imgs/logitech-g713.webp",
+    "name": "SpeedBlaze G705 Gaming Mouse",
+    "brand": "BlazeTech",
+    "price": 49
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "G502 Titan Gaming Mouse",
+    "brand": "TitanTech",
+    "price": 129
+  },
+  {
+    "img": "../imgs/logitech-g622.jpg",
+    "name": "G920 Turbo Racing Wheel",
+    "brand": "TurboDrive",
+    "price": 169
+  },
+  {
+    "img": "../imgs/logitech-g920.webp",
+    "name": "Vortex G622 Pro Mouse",
+    "brand": "VortexTech",
+    "price": 99
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "ProGamer G713 Gaming Keyboard",
+    "brand": "GamerTech",
+    "price": 109
+  },
+  {
+    "img": "../imgs/logitech-g622.jpg",
+    "name": "UltraSound G735 Gaming Headset",
+    "brand": "SoundTech",
+    "price": 89
+  },
+  {
+    "img": "../imgs/logitech-g735.webp",
+    "name": "SwiftGrip G705 Gaming Mouse",
+    "brand": "SwiftTech",
+    "price": 59
+  },
+  {
+    "img": "../imgs/logitech-g502.jpg",
+    "name": "StealthGrip G502 Gaming Mouse",
+    "brand": "StealthGear",
+    "price": 119
+  },
+  {
+    "img": "../imgs/logitech-g920.webp",
+    "name": "G920 Velocity Racing Wheel",
+    "brand": "VelocityDrive",
+    "price": 159
+  },
+  {
+    "img": "../imgs/logitech-g622.jpg",
+    "name": "ThunderStrike G622 Pro Mouse",
+    "brand": "ThunderTech",
+    "price": 79
+  },
+  {
+    "img": "../imgs/logitech-g713.webp",
+    "name": "G713 Prodigy Gaming Keyboard",
+    "brand": "ProdigyTech",
+    "price": 99
+  },
+  {
+    "img": "../imgs/logitech-g735.webp",
+    "name": "MaxSound G735 Gaming Headset",
+    "brand": "MaxTech",
+    "price": 69
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "TurboGrip G705 Gaming Mouse",
+    "brand": "TurboTech",
+    "price": 49
+  },
+  {
+    "img": "../imgs/logitech-g502.jpg",
+    "name": "G502 Stealth Gaming Mouse",
+    "brand": "StealthGear",
+    "price": 129
+  },
+  {
+    "img": "../imgs/logitech-g920.webp",
+    "name": "G920 Thunder Racing Wheel",
+    "brand": "ThunderDrive",
+    "price": 169
+  },
+  {
+    "img": "../imgs/logitech-g622.jpg",
+    "name": "StormGrip G622 Pro Mouse",
+    "brand": "StormTech",
+    "price": 89
+  },
+  {
+    "img": "../imgs/logitech-g713.webp",
+    "name": "G713 RapidFire Gaming Keyboard",
+    "brand": "RapidTech",
+    "price": 109
+  },
+  {
+    "img": "../imgs/logitech-g735.webp",
+    "name": "UltraSound Pro G735 Gaming Headset",
+    "brand": "UltraTech",
+    "price": 79
+  },
+  {
+    "img": "../imgs/logitech-g705.jpg",
+    "name": "BlitzGrip G705 Gaming Mouse",
+    "brand": "BlitzTech",
+    "price": 59
+  }
+]
